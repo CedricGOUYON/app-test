@@ -1,0 +1,26 @@
+# Global
+node_modules
+.env
+.env.*
+dist
+build
+.DS_Store
+.vscode
+.idea
+*.log
+npm-debug.log*
+
+# Vite (client)
+client/dist
+client/.vite
+
+# TypeScript (server)
+server/dist
+server/*.tsbuildinfo
+
+# Ressources locales (non versionnées)
+app_ressources/
+
+# Logs
+logs
+*.log

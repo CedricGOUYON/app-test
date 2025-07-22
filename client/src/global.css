@@ -1,0 +1,11 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+	background-color: #008080;
+}
+:root {
+	--primary-color: #008080;
+	--secondary-color: #ffffff;
+}
